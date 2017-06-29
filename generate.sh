@@ -1,0 +1,1 @@
+hugo --theme="Projects/blog/themes/hugo-cactus-theme"
